@@ -1,0 +1,31 @@
+data,loja,regiao,categoria,produto,quantidade,preco_unitario,vendedor
+2026-08-01,Loja Recife Centro,Nordeste,Moda,Camiseta Basica,12,49.90,Ana Souza
+2026-08-01,Loja Recife Centro,Nordeste,Casa,Jogo de Toalhas,3,89.90,Ana Souza
+2026-08-01,Loja SP Paulista,Sudeste,Moda,Calca Jeans,8,129.90,Bruno Lima
+2026-08-01,Loja SP Paulista,Sudeste,Moda,Camiseta Basica,20,49.90,Bruno Lima
+2026-08-02,Loja Recife Centro,Nordeste,Casa,Panela Antiaderente,5,159.90,Ana Souza
+2026-08-02,Loja RJ Barra,Sudeste,Moda,Vestido Verao,10,199.90,Carla Dias
+2026-08-02,Loja RJ Barra,Sudeste,Casa,Jogo de Toalhas,2,89.90,Carla Dias
+2026-08-02,Loja POA Moinhos,Sul,Moda,Jaqueta Jeans,4,249.90,Diego Alves
+2026-08-03,Loja SP Paulista,Sudeste,Casa,Panela Antiaderente,7,159.90,Bruno Lima
+2026-08-03,Loja BH Savassi,Sudeste,Moda,Calca Jeans,6,129.90,Elaine Rocha
+2026-08-03,Loja BH Savassi,Sudeste,Moda,Camiseta Basica,15,49.90,Elaine Rocha
+2026-08-04,Loja Recife Centro,Nordeste,Moda,Vestido Verao,9,199.90,Ana Souza
+2026-08-04,Loja Salvador Barra,Nordeste,Casa,Jogo de Toalhas,4,89.90,Fabio Nunes
+2026-08-04,Loja Salvador Barra,Nordeste,Moda,Jaqueta Jeans,3,249.90,Fabio Nunes
+2026-08-05,Loja RJ Barra,Sudeste,Moda,Calca Jeans,11,129.90,Carla Dias
+2026-08-05,Loja POA Moinhos,Sul,Casa,Panela Antiaderente,6,159.90,Diego Alves
+2026-08-05,Loja Curitiba Batel,Sul,Moda,Camiseta Basica,18,49.90,Gustavo Melo
+2026-08-06,Loja SP Paulista,Sudeste,Moda,Vestido Verao,14,199.90,Bruno Lima
+2026-08-06,Loja Curitiba Batel,Sul,Casa,Jogo de Toalhas,5,89.90,Gustavo Melo
+2026-08-06,Loja BH Savassi,Sudeste,Casa,Panela Antiaderente,4,159.90,Elaine Rocha
+2026-08-07,Loja Recife Centro,Nordeste,Moda,Jaqueta Jeans,2,249.90,Ana Souza
+2026-08-07,Loja Salvador Barra,Nordeste,Moda,Calca Jeans,7,129.90,Fabio Nunes
+2026-08-08,Loja POA Moinhos,Sul,Moda,Vestido Verao,8,199.90,Diego Alves
+2026-08-08,Loja Curitiba Batel,Sul,Moda,Jaqueta Jeans,3,249.90,Gustavo Melo
+2026-08-09,Loja RJ Barra,Sudeste,Casa,Panela Antiaderente,9,159.90,Carla Dias
+2026-08-09,Loja SP Paulista,Sudeste,Moda,Jaqueta Jeans,6,249.90,Bruno Lima
+2026-08-10,Loja BH Savassi,Sudeste,Moda,Vestido Verao,10,199.90,Elaine Rocha
+2026-08-10,Loja Recife Centro,Nordeste,Casa,Jogo de Toalhas,6,89.90,Ana Souza
+2026-08-10,Loja Salvador Barra,Nordeste,Casa,Panela Antiaderente,3,159.90,Fabio Nunes
+2026-08-11,Loja Curitiba Batel,Sul,Casa,Panela Antiaderente,5,159.90,Gustavo Melo
